@@ -17,17 +17,17 @@
 }
 
 .banner .swiper-slide:nth-child(2n) {
-  background-image: url("banner-books/book2.png");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRISvLadDcPcq8PTF4Z5DnUU8EuN2VqBjjkiw&s");
 }
 
 .banner .swiper-slide:nth-child(3n) {
-  background-image: url("banner-books/book3.png");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBcO26kdi60I4raBpJSMFyJMX2AzPfb2D9Aw&s");
 }
 
 .banner .swiper-slide:nth-child(4n) {
-  background-image: url("banner-books/book4.png");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsfxrcUtlaLqSTTpA7N9cWKIopvRNtXngM2A&s");
 }
 
 .banner .swiper-slide:nth-child(5n) {
-  background-image: url("banner-books/book5.png");
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQw51g1gMBrZN3FbN17flaY_YSYmTMGuudh3Q&s");
 }
