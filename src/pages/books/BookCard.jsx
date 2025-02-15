@@ -1,4 +1,5 @@
-import React from 'react'
+/* eslint-disable react/prop-types */
+
 import { FiShoppingCart } from 'react-icons/fi'
 import { getImgUrl } from '../../utils/getImgUrl'
 
@@ -31,7 +32,7 @@ const BookCard = ({book}) => {
                 <div>
                     <Link to={`/books/${book._id}`}>
                         <h3 className="text-xl font-semibold hover:text-blue-600 mb-3">
-                       {book?.title}
+                        {book?.title}
                         </h3>
                     </Link>
                     <p className="text-gray-600 mb-5">{book?.description.length > 80 ? `${book.description.slice(0, 80)}...` : book?.description}</p>
